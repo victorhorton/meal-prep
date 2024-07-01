@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("meal-prep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33df0756fa78d7802ab80b595a397d5edca25f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0a039395793270dfb5947c39e02f4a49d65514b")]
 [assembly: System.Reflection.AssemblyProductAttribute("meal-prep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("meal-prep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
