@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { ref } from "vue";
-import { recipesData } from "../../data";
+import { recipesData } from "../../data/recipes_data";
 
 const recipes = ref(recipesData);
 </script>
