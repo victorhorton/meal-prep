@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/meal-prep.props" />
+</Project>
